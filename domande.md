@@ -25,9 +25,38 @@ Un'interfaccia viene IMPLEMENTATA.
 ## Concetto di information hiding e incapsulamento
 Con il concetto di incapsulamento intendiamo dire che tutto ciò che appartiene ad una classe viene descritto al suo interno. È buona norma non far acceder direttamente gli utenti agli attributi di una classe, quindi utiliziamo i modificatori di accesso (public, private) consentendo il loro accesso solo tramite i metodi get e set, che permettono di filtrare il dato in entrata e il dato in uscita. Con private posso quindi nascondere i dettagli costruttivi (attributi, metodi, filtri) della mia classe (e quindi delle sue istanze), questo è il concetto di information hiding.
 
+## STORED PROCEDURE 
+sono un innesto di linguaggio programmazione in una base dati. 
+la store procedure è una vista con cui posso interagire
+
+ ## LINQ
+è UN COMPONENTE CHE AGGIUNGE AI LINGUAGGI .NET LA POSSIBILITà DI EFFETTUARE INTERROGAZIONI SU OGGETTI UTILIZZANDO
+UNA SINTASSI SIMILE A SQL
+
+## diamond <  >
+il tipo di dato che si aspetta la lista
+
+## SOLID 
+SONO DELLE REGOLE CHE DEVONO ESSERE SEGUITE QUANDO SI SVILUPPA UN SOFTWARE
+DEI PRINCIPI DI WELL CODING
+5:
+-SINGLE RESPONSIBILITY(ogni classe ha una sola responsabilità)
+-OPEN/CLOSED (ereditarietà quindi aperta alle estensioni ma chiusa alle modifiche)
+-LISKOV (polimorfismo sostituiammo con propri sottotipi)
+-INTERFACE SEGREGATION (interfacce specifiche che suddividono repsponsbilita piuttosto che una sola)
+-DEPENDENCY INVERSION
+
+## VIEW
+la VIEW o vista non permette inserimento , eliminazione
+effettivmente la view non esistono 
+
+
+
 
 ## stringa di comando per fare push
 git remote add origin https://github.com/acelilli/iemme_q.git
+
+
 
 git branch -M main
 
