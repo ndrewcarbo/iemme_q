@@ -38,6 +38,7 @@ Con *private* posso quindi nascondere i dettagli costruttivi (attributi, metodi,
 È un metodo predefinito appartenente alla classe Object che restituisce una stringa che ci dice il tipo dell'oggetto per il quale lo invochiamo.
 
 ## Che cosa vuol dire override?
+OVERRIDE è UN PROCESSO CHE TRAMITE L'AUTORIZZAZIONE VIRTUAL POSSIAMO RIDEFINIRE UN METODO NELLA CLASSE FIGLIA
 
 ## Che cos'è una stored procedure?
 Una stored proedure è un innesto di linguaggo di programmazione che ci permette di fare DDL (es. con le tablle temporanee), DML e QL.
