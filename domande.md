@@ -130,7 +130,8 @@ Per assicurare la coerenza dei dati, all'eliminazione di un record dalla tabella
 ## Perché, all'interno di una classein C# che contiene delle foreign key, l'attributo public virtual MiaClasseRifNavigation? è nullable?
 `public virtual MiaClasseRifNavigation? {get; set}` 
 
-
+## in ottica di DB se parlo di SCHEMA cosa si intende??
+  LO SCHEMA è LA PARTE INVARIANTE DEL DATABASE
 ---
 
 ## stringa di comando per fare push
