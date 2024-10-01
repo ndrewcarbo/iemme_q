@@ -80,7 +80,11 @@ Language Integrate Query serve per inerrogare le strutture di dati attraverso .N
 Cioè è una funzionalità di .NET che consente di eseguire query su diverse fonti in modo uniforme integrando la sintassi delle query direttamente nel linguaggio di programmazione. Grazie a LINQ possiamo interrogare i dati del database. 
 
 ## Cos’è il dbset ?
-È un contenitore di tuple, la tupla è un riga (un record). 
+È un contenitore di tuple, la tupla è un riga (un record).
+
+# ARCHITETTURA THREE TIER
+    è composta dai tre tasselli principali del nostro progetto 
+    DBMS - Business logic (app C#) - UI user interface
 
 ## Cos’è il singleton?
 E’ un parttern di programmazione che garantisce la creazione di una singola istanza fornisce un accesso globale a essa.
